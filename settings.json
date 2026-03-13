@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "EpicralMaceSMP.aternos.me",
+    "ip": "EpicralMaceSMP.aternos.me:34213",
     "port": 34213,
     "version": "",
     "try-creative": false
